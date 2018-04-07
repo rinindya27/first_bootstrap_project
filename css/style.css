@@ -1,0 +1,49 @@
+.irin{ 
+    color: yellow;
+    border: 2px solid;
+    border-radius: 10px;
+    background-color: red;
+    border-top-color: chocolate;
+    border-right-color: burlywood;
+    border-bottom-color: aquamarine;
+    border-left-color: bisque;
+}
+
+#cantik > h1{
+    color: red;
+    background-color: green;
+    border: 5px solid violet;
+    border-bottom-right-radius:10px;
+    border-top-left-radius: 10px;
+}
+
+#cantik > h2{
+    color: green;
+    background-color:blue;
+    border: 3px solid darkcyan;
+}
+
+h1{
+    color: blue !important;
+
+}
+
+.btn-saya{
+    background-color: brown;
+    border-color: brown;
+}
+
+.btn-saya:hover{
+    background-color: yellow;
+    border-color: yellow;
+}
+
+.btn-saya:active{
+    background-color: white !important;
+    border-color: white !important;
+}
+
+.btn-saya:focus{
+    background-color: black;
+    border-color: black;
+}
